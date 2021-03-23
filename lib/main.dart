@@ -8,7 +8,7 @@ class HelloFlutterApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Hello Flutter App",
+      title: "Hello Flutter App modified",
       home: Scaffold(
           appBar: AppBar(title: Text("My Flutter App")),
           body: home()),
